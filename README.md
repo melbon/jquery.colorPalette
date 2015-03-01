@@ -1,4 +1,5 @@
 # jquery.colorPalette
+This plugin creates beautiful and colored header of your web page.
 ## Install
 ```javascript
 <script src="jquery.min.js"></script>
