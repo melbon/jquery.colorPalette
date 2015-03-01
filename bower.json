@@ -1,0 +1,25 @@
+{
+  "name": "colorPalette",
+  "main": "jquery.colorPalette.js",
+  "version": "1.1.0",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "colorPalette",
+    "colorful",
+    "header"
+  ],
+  "authors": [
+    "Mario Vidov"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/melbon/jquery.colorPalette",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
