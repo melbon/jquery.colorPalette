@@ -23,6 +23,6 @@ $(selector).colorPalette();
 August 2014 <br />
 colorPalette 1.1.0 <br />
 @author Mario Vidov <br />
-@url http://vidov.it <br />
-@twitter  <a href="http://twitter.com/MarioVidov">MarioVidov</a> <br />
+@url <a href="http://vidov.it" target="_blank">http://vidov.it</a> <br />
+@twitter  <a href="http://twitter.com/MarioVidov" target="_blank">MarioVidov</a> <br />
 GPL license
