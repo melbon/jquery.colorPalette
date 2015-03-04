@@ -14,14 +14,35 @@ bower install colorpalette
 $(selector).colorPalette();
 ```
 ## Configuration
+#####selectorHeight
+set your main height
 ```javascript
-{
-    selectorHeight : "", // default: "10px";
-    selectorWidth : "", // default: none;
-    blockColors : [], // default: ["#CB96EE", "#FD6E6E", "#FFAC79", "#52596B", "#26D7B1"]
-    blockFloat : "left", "right" // default: "left"
-    blockHeight : "" // default: "inherit"
-}
+default: "10px"
+options: string
+```
+#####selectorWidth
+set your main width
+```javascript
+default: ""
+options: string
+```
+#####blockColors
+set your palette colors
+```javascript
+default: ["#CB96EE", "#FD6E6E", "#FFAC79", "#52596B", "#26D7B1"]
+options: array
+```
+#####blockFloat
+set your palette direction
+```javascript
+default: "left"
+options: "left", "right"
+```
+#####blockHeight
+set your palette height
+```javascript
+default: "inherit"
+options: string
 ```
 ## License
 August 2014 <br />
