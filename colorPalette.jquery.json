@@ -1,0 +1,29 @@
+{
+  "name": "colorPalette",
+  "title": "jquery.colorPalette",
+  "description": "This plugin creates beautiful and colored header of your web page",
+  "keywords": [
+    "colorpalette",
+    "color",
+    "palette",
+    "ui"
+  ],
+  "version": "1.1.0",
+  "author": {
+    "name": "Mario Vidov",
+    "email": "mario@vidov.it",
+    "url": "http://vidov.it"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://opensource.org/licenses/MIT"
+    }
+  ],
+  "bugs": "https://github.com/melbon/jquery.colorPalette/issues",
+  "homepage": "https://github.com/melbon/jquery.colorPalette",
+  "docs": "https://github.com/melbon/jquery.colorPalette",
+  "dependencies": {
+    "jquery": ">=1.42"
+  }
+}
