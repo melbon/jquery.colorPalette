@@ -14,31 +14,31 @@ bower install colorpalette
 $(selector).colorPalette();
 ```
 ## Configuration
-#####selectorHeight
+#### selectorHeight
 set your main height
 ```javascript
 default: "10px"
 options: string
 ```
-#####selectorWidth
+#### selectorWidth
 set your main width
 ```javascript
 default: ""
 options: string
 ```
-#####blockColors
+#### blockColors
 set your palette colors
 ```javascript
 default: ["#CB96EE", "#FD6E6E", "#FFAC79", "#52596B", "#26D7B1"]
 options: array
 ```
-#####blockFloat
+#### blockFloat
 set your palette direction
 ```javascript
 default: "left"
 options: "left", "right"
 ```
-#####blockHeight
+#### blockHeight
 set your palette height
 ```javascript
 default: "inherit"
